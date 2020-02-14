@@ -5,7 +5,7 @@ CLASSES = {
 };
 
 const MODEL_PATH =
-    document.URL + 'model.json';
+    'https://github.com/XirenZhou/columbia_landmark_classifier/blob/master/' + 'model.json';
 
 const IMAGE_SIZE = 200;
 const TOPK_PREDICTIONS = 3;
